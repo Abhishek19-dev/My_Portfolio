@@ -1,0 +1,15 @@
+step 1st :- )  Create a Navbar
+
+step 2nd :- ) create an animated text for 1st section
+               1. npm i framer-motion
+               2. uske baad homesection.jsx
+               3. uske baad TextSpan.jsx and TextSpan.css
+               4. uske baad import motion (motion se humne ye decide kiya ki mai span tag mei isko apply krunga)
+                   <motion.span class="text_span">
+                   {children}
+                  </motion.span>
+
+step 3rd :- ) gsap animation =>
+              npm i gsap     
+              in App.jsx
+              import {gsap , Power3} from gsap             
